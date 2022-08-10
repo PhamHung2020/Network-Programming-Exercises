@@ -1,0 +1,4 @@
+3 789 may bom Pump
+2
+V double Flow Rate 9
+T Operating Time 1

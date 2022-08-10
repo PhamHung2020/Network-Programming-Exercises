@@ -1,0 +1,4 @@
+2 456 may cho an Feeder
+2
+W double Feeding Amount 100
+Time Time Times 2:22:22

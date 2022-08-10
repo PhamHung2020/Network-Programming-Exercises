@@ -1,0 +1,5 @@
+5 123 cam bien Sensor
+3
+OXI mg/l 0 100
+SALT % 0 10
+PH pH 1 7
